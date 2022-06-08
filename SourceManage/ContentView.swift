@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {    
+        VStack {    //......
             Text("Hello, world!")
                 .padding()
             Text("Kwonilgun")   //리모트로 테스트 해 본다. 정말로 어렵게
